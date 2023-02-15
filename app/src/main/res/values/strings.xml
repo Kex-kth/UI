@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">projectKex</string>
+    <string name="app_name">Project - Kex</string>
+    <string name="open_app">Open</string>
+    <string name="Drone">Drone Type</string>
 </resources>
