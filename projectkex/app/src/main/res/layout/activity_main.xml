@@ -21,6 +21,7 @@
         android:paddingRight="44dp"
         android:paddingLeft="44dp">
         <Button
+            android:id="@+id/btn_login"
             android:layout_width="100dp"
             android:layout_height="40dp"
             android:layout_alignParentLeft="true"
@@ -30,6 +31,7 @@
             android:background="@drawable/shape_login_btn"
             ></Button>
         <Button
+            android:id="@+id/btn_register"
             android:layout_width="100dp"
             android:layout_height="40dp"
             android:layout_alignParentRight="true"
